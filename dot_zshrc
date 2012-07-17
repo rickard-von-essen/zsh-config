@@ -262,7 +262,7 @@ prompt wunjo
 # ----------------------------------------------
 
 # Load Git Flow completion
-source ~/.git-flow-completion.zsh
+source ~/src/git-flow-completion/git-flow-completion.zsh
 
 # -----------------------------------------------
 # JDKs
