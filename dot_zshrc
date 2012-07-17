@@ -265,9 +265,11 @@ prompt wunjo
 source ~/.git-flow-completion.zsh
 
 # -----------------------------------------------
-# JDK 7
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/1.7.0.jdk/Contents/Home
+# JDKs
+# export JAVA_HOME=/Library/Java/JavaVirtualMachines/1.7.0.jdk/Contents/Home
+source ~/.javas
 
 # -----------------------------------------------
 #  END
 # -----------------------------------------------
+source ~/src/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
